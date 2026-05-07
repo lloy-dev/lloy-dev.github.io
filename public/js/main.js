@@ -31,7 +31,7 @@ footerTemplate.innerHTML = `
   © 2025. All rights reserved.
 </p>
 <div class="footer-socials">
-  <a href="mailto:contact@lloy.dev" target="_blank" rel="noopener noreferrer"
+  <a href="mailto:hi@lloy.dev" target="_blank" rel="noopener noreferrer"
     ><img alt="Email" src="./assets/icons/mail.svg"
   /></a>
   <a
